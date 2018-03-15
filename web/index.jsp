@@ -12,6 +12,7 @@
   </head>
   <body>
   Hello Word
-  这是第二个WEB项目hhhkljahjjkkl
+  这是第二个WEB项目
+  现在要修改这个项目,来测试代码冲突的解决方案
   </body>
 </html>
